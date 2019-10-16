@@ -7,7 +7,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/a_random_quote_generator-v1.git",
-            "image_urls": ["/static/img/1quote0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/1quote0.png", "/static/img/1quote1.png", "/static/img/1quote2.png", "/static/img/1quote3.png"]
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/list_pagination_and_filtering-v1.git",
-            "image_urls": ["/static/img/2pagination0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/2pagination0.png", "/static/img/2pagination1.png", "/static/img/2pagination2.png", "/static/img/2pagination3.png"]
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/interactive-form-v1.git",
-            "image_urls": ["/static/img/3form0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/3form0.png", "/static/img/3form1.png", "/static/img/3form2.png", "/static/img/3form3.png"]
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/oop_game-v2.git",
-            "image_urls": ["/static/img/4game0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/4game0.png", "/static/img/4game1.png", "/static/img/4game2.png", "/static/img/4game3.png"]
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/public_api_request-v1.git",
-            "image_urls": ["/static/img/5request0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/5request0.png", "/static/img/5request1.png", "/static/img/5request2.png", "/static/img/5request3.png"]
         }
     ]
 }
