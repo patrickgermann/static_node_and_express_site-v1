@@ -1,6 +1,7 @@
 
 h1,h2,h3,h4,h5,p{
-  font-family: 'Merriweather', serif;
+  /* Changed font for H and p */
+  font-family: "Goudy Bookletter 1911", sans-serif
 }
 
   h5{
@@ -20,6 +21,11 @@ h1,h2,h3,h4,h5,p{
   p{
     font-size: 15px;
     color: #666;
+  }
+
+  /* Changed H1-Color to Blue */
+  h1 {
+    color: #111986;
   }
 
 .round{
@@ -58,7 +64,8 @@ a:hover{
 
 .portfolio-me{
   padding: 20px;
-  background: #121213;
+  /* Changed background to blue */
+  background: #111986;
   color: #fff;
   box-shadow: none !important;
 }

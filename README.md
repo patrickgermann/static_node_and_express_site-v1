@@ -19,3 +19,8 @@ You'll use Node.js and Express to:
 - Set up a server to serve the project
 
 After building this project, you should have a comfortable working knowledge of Node.js, Express and Pug, setting up a server, handling requests, working with server-side JavaScript, and building a powerful and modern back end project. And you'll have an important new skill to make you more marketable as a Full Stack JavaScript Developer.
+
+Changes to style.css:
+- Changed font-family to "Goudy Bookletter 1911", sans-serif
+- Changed Bio-Backgroundcolor to Blue
+- Changed Textcolor H1 to Blue

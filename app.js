@@ -3,6 +3,7 @@ const app = express();
 
 const indexRoute = require('./routes');
 const projectRoute = require('./routes/projects.js');
+const aboutRoute = require('./routes/about.js');
 
 app.use('/static', express.static('public'));
 
@@ -12,9 +13,22 @@ app.use("/", indexRoute);
 
 app.use("/projects", projectRoute);
 
-app.get('/about', (req, res, next) => {
-    res.render('about');
-    next();
+app.use("/about", aboutRoute);
+
+app.use((req,res, next) => {
+    const err = new Error("Not found.");
+    err.status =  404;
+    next(err);
+});
+
+app.use(( err, req, res, next) => {
+res.locals.error = err;
+res.status(err.status);
+res.render('error');
+console.log('There was an error!');
+console.log(err.message);
+console.log(err.status);
+console.log(err.stack);
 });
 
 app.listen(3000, () => {
