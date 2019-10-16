@@ -7,7 +7,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/a_random_quote_generator-v1.git",
-            "images_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/1quote0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
         },
         {
             "id": 2,
@@ -16,7 +16,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/list_pagination_and_filtering-v1.git",
-            "images_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/2pagination0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
         },
         {
             "id": 3,
@@ -25,7 +25,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/interactive-form-v1.git",
-            "images_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/3form0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
         },
         {
             "id": 4,
@@ -34,7 +34,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/oop_game-v2.git",
-            "images_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/4game0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
         },
         {
             "id": 5,
@@ -43,7 +43,7 @@
             "tewchnologies": "HTML, CSS, JavaScript",
             "live_link": "http:/pgermann.ch/",
             "github_link": "https://github.com/patrickgermann/public_api_request-v1.git",
-            "images_urls": ["https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
+            "image_urls": ["/static/img/5request0.png", "https://placehold.it/550x550", "https://placehold.it/550x550", "https://placehold.it/550x550"]
         }
     ]
 }
